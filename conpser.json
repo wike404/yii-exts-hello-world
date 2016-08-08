@@ -1,0 +1,14 @@
+{
+    "name": "johnwayne/hello-world",
+    "authors": [
+        {
+            "name": "johnwayne"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
